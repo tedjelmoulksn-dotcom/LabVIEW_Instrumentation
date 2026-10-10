@@ -1,18 +1,20 @@
-# Exercices LabVIEW
+# LabVIEW Instrumentation Exercises
 
-Instruments virtuels (`.vi`) réalisés en travaux pratiques d'instrumentation.
+Virtual instruments and interface exercises covering loops, conditional logic, sequences, strings and laboratory filtering/oscilloscope tasks.
 
-| Dossier | Période | Fichiers |
-|---|---|---|
-| `tp_2023/` | février–mars 2023 | Interfaces (`TP1_interface.vi`, `Exo_interfaces.vi`, `Control 1.ctl`), essais d'oscilloscope et de filtre (`tp_oscillo.vi`, `tp_filtre*.vi`) |
-| `exercices_2025/` | janvier 2025 | Structures de base : boucles (factorielle, moyenne), condition (pair/impair, discriminant), séquence, chaînes de caractères |
+## Repository guide
 
-Les exercices de 2025 proviennent d'un dossier de binôme (travail avec Greg Alberts).
+| Location | Contents |
+|---|---|
+| [tp_2023/](tp_2023/) | Interface, oscilloscope and filter VIs with a custom control |
+| [exercices_2025/](exercices_2025/) | Factorial, averages, discriminant, parity and sequence exercises |
 
-## À documenter
+## Getting started
 
-Les fichiers `.vi` sont binaires : leur contenu n'a pas pu être lu lors de la préparation de ce dépôt. Pour un dépôt public utile, ajouter une capture de la face avant et du diagramme de chaque VI, la version de LabVIEW utilisée et, pour les TP de 2023, le matériel piloté (le guide de programmation de l'oscilloscope Rigol DS1000Z figure dans l'archive d'origine, sans preuve que les VI le pilotent).
+Open the `.vi` files in a compatible LabVIEW installation. Keep associated `.ctl` files with their interfaces. Inspect the front panel and block diagram before running an exercise; hardware-oriented VIs may require the corresponding instrument configuration.
 
-## Intérêt
+## Project context
 
-Dépôt de niveau « initiation ». À publier seulement après ajout des captures.
+The 2025 exercises include work with Greg Alberts. Native VI files are binary; no LabVIEW execution was performed during repository organisation.
+
+Binary project files retain their original filenames.
