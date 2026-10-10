@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460" role="img" aria-labelledby="title desc">
+<title id="title">LabVIEW virtual-instrument studies</title>
+<desc id="desc">Native VI and CTL files: inspect each front panel and block diagram. Instrument-oriented exercises: Oscilloscope and filtering tasks, Associated custom control files; Dataflow and execution: Loops · conditional logic · sequences, Independent graphical-programming exercises; Numeric exercises: Factorial · averages, Discriminant · parity; Interface and strings: Front-panel interaction, String handling and sequence exercises</desc>
+<rect width="1100" height="460" rx="18" fill="#f4f7fb"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="34" y="48" fill="#172b3a" font-size="29" font-weight="700">LabVIEW virtual-instrument studies</text>
+<text x="34" y="77" fill="#526576" font-size="17">Native VI and CTL files: inspect each front panel and block diagram</text>
+<rect x="34" y="104" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M35 114 V213" stroke="#287b8e" stroke-width="4"/>
+<text x="54" y="136" fill="#183345" font-size="20" font-weight="700">Instrument-oriented exercises</text>
+<text x="54" y="163" fill="#465e70" font-size="17">Oscilloscope and filtering tasks</text>
+<text x="54" y="186" fill="#465e70" font-size="17">Associated custom control files</text>
+<rect x="559" y="104" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M560 114 V213" stroke="#287b8e" stroke-width="4"/>
+<text x="579" y="136" fill="#183345" font-size="20" font-weight="700">Dataflow and execution</text>
+<text x="579" y="163" fill="#465e70" font-size="17">Loops · conditional logic · sequences</text>
+<text x="579" y="186" fill="#465e70" font-size="17">Independent graphical-programming exercises</text>
+<rect x="34" y="243" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M35 253 V352" stroke="#287b8e" stroke-width="4"/>
+<text x="54" y="275" fill="#183345" font-size="20" font-weight="700">Numeric exercises</text>
+<text x="54" y="302" fill="#465e70" font-size="17">Factorial · averages</text>
+<text x="54" y="325" fill="#465e70" font-size="17">Discriminant · parity</text>
+<rect x="559" y="243" width="505" height="119" rx="11" fill="white" stroke="#d8e2eb"/>
+<path d="M560 253 V352" stroke="#287b8e" stroke-width="4"/>
+<text x="579" y="275" fill="#183345" font-size="20" font-weight="700">Interface and strings</text>
+<text x="579" y="302" fill="#465e70" font-size="17">Front-panel interaction</text>
+<text x="579" y="325" fill="#465e70" font-size="17">String handling and sequence exercises</text>
+<text x="34" y="420" fill="#526576" font-size="16">Conceptual study map, not a LabVIEW screenshot. Native VIs have not been re-executed.</text>
+</g></svg>

@@ -2,6 +2,10 @@
 
 Virtual instruments and interface exercises covering loops, conditional logic, sequences, strings and laboratory filtering/oscilloscope tasks.
 
+![LabVIEW Instrumentation project overview](assets/project-overview.svg)
+
+*Technical study overview based on the available repository material.*
+
 ## Repository guide
 
 | Location | Contents |
